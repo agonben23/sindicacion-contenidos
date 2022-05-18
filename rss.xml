@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+    <title>ComunicAlberti</title>
+    <link>https://iesrafaelalberti.es/rss.xml</link>
+    <description>Canal de contenidos dedicado al seguimiento de la guerra entre Rusia y Ucrania</description>
+    <atom:link href="https://iesrafaelalberti.es/rss.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+        <url>http://iesrafaelalberti.es/logo.jpg</url>
+        <title>ComunicAlberti</title>
+        <link>https://iesrafaelalberti.es/rss.xml</link>
+    </image>
+    <language>es-ES</language>
+    <lastBuildDate>Thu, 07 Apr 2022 19:07:24 +0000</lastBuildDate>
+    <item>
+        <title>La OTAN pierde el miedo a Rusia y envía armamento más letal a Ucrania</title>
+        <link>https://www.elmundo.es/internacional/2022/04/05/624c698bfdddff6a458b4591.html</link>
+        <description>La guerra entra en una nueva fase que podría alargarse durante meses</description>
+        <guid isPermaLink="false">n5</guid>
+        <pubDate>Wed, 06 Apr 2022 20:21:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>La UE y Estados Unidos preparan con “urgencia” más sanciones por las “atrocidades” rusas en Bucha</title>
+        <link>https://elpais.com/internacional/2022-04-04/la-ue-prepara-con-urgencia-mas-sanciones-por-las-atrocidades-rusas-en-bucha.html</link>
+        <description>El jefe de la diplomacia europea denuncia las “atrocidades cometidas en suelo europeo” mientras China calla. “Putin es una criminal de guerra”, insiste Biden</description>
+        <guid isPermaLink="false">n4</guid>
+        <pubDate>Mon, 04 Apr 2022 17:17:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>Las empresas españolas a las que Zelenski ha emplazado a cortar lazos con Rusia</title>
+        <link>https://www.heraldo.es/noticias/economia/2022/04/05/zelenski-emplaza-empresas-espanolas-cortar-con-rusia-1565298.html</link>
+        <description>El presidente ucraniano ha comparecido telemáticamente este martes ante el Congreso de los Diputados.</description>
+        <guid isPermaLink="false">n3</guid>
+        <pubDate>Tue, 05 Apr 2022 19:34:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>Rusia anuncia una ofensiva final para la toma de Mariúpol</title>
+        <link>https://www.elconfidencial.com/mundo/2022-04-05/guerra-ucrania-rusia-matanza-bucha-guerra-larga_3403443/</link>
+        <description>El Ejército ruso prosiguió hoy su ofensiva en el este de Ucrania a fin de controlar totalmente el Donbás, mientras aumentaron las expulsiones de sus diplomáticos de países europeos por la presunta matanza en Bucha</description>
+        <guid isPermaLink="false">n2</guid>
+        <pubDate>Tue, 05 Apr 2022 16:01:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>Zelenski, el paladín y sus fantasmas</title>
+        <link>https://www.publico.es/internacional/guerra-rusia-ucrania-zelenski-paladin-fantasmas.html</link>
+        <description>El presidente ucraniano está ganando la guerra mediática, pero ese liderazgo esconde también sombras inquietantes que podrían acabar asfixiándolo.</description>
+        <guid isPermaLink="false">n1</guid>
+        <pubDate>Mon, 04 Apr 2022 22:05:00 +0100</pubDate>
+    </item>
+</channel>
+</rss>
